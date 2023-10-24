@@ -1,0 +1,1 @@
+python3 main.py --raw_pdf_folder /app/code/rule_based_pipeline/raw --working_folder /app/code/rule_based_pipeline/work --output_folder /app/code/rule_based_pipeline/out --verbosity 2
